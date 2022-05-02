@@ -1,0 +1,9 @@
+C:\Users\edmundo\Documents\Rodrigo\Projetos\TesteVR\.mono\temp\bin\Debug\TesteVR.dll
+C:\Users\edmundo\Documents\Rodrigo\Projetos\TesteVR\.mono\temp\bin\Debug\TesteVR.pdb
+C:\Users\edmundo\Documents\Rodrigo\Projetos\TesteVR\.mono\temp\obj\Debug\TesteVR.csproj.AssemblyReference.cache
+C:\Users\edmundo\Documents\Rodrigo\Projetos\TesteVR\.mono\temp\obj\Debug\TesteVR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edmundo\Documents\Rodrigo\Projetos\TesteVR\.mono\temp\obj\Debug\TesteVR.AssemblyInfoInputs.cache
+C:\Users\edmundo\Documents\Rodrigo\Projetos\TesteVR\.mono\temp\obj\Debug\TesteVR.AssemblyInfo.cs
+C:\Users\edmundo\Documents\Rodrigo\Projetos\TesteVR\.mono\temp\obj\Debug\TesteVR.csproj.CoreCompileInputs.cache
+C:\Users\edmundo\Documents\Rodrigo\Projetos\TesteVR\.mono\temp\obj\Debug\TesteVR.dll
+C:\Users\edmundo\Documents\Rodrigo\Projetos\TesteVR\.mono\temp\obj\Debug\TesteVR.pdb
